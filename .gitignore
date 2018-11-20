@@ -103,5 +103,5 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-
+llave.txt
 /data/molinetes_historico_2018.csv
